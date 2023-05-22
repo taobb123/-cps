@@ -11,6 +11,8 @@
  >        cv2.fillPoly(mask, [np.array([[40, 1260], [1000, 1260], [1000, 1360], [40, 1360]], np.int32)], (255, 255, 0))
 
 
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+
+:+1: :shipit:
 
 
